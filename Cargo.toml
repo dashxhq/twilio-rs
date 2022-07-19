@@ -1,5 +1,5 @@
 [package]
-name = "twilio"
+name = "twilio_rs"
 version = "1.28.1"
 authors = ["Team DashX <team@dashx.com>"]
 edition = "2018"
